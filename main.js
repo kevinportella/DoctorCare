@@ -9,9 +9,9 @@ function onScroll() {
 
 function showNavOnScroll() {
     if (scrollY > 0) {
-        navigation.classList.add("scroll");
+        navigationID.classList.add("scroll");
     } else {
-        navigation.classList.remove("scroll");
+        navigationID.classList.remove("scroll");
     }
 }
 
