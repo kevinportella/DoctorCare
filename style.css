@@ -609,7 +609,7 @@ footer .social-links {
     }
 
     #home::before {
-        height: calc(98% - var(--nav-height));
+        height: calc(70% - var(--nav-height));
     }
 
     #home {
@@ -721,6 +721,5 @@ footer .social-links {
     footer p {
         margin-bottom: 0;
     }
-
 
 }
